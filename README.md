@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aereis75
 - 👀 I’m interested in movies, tv shows, tecnology and more
-- 🌱 I’m currently learning web design and cybersecurity
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning design and Software Engineer
+- 💞️ I’m looking to collaborate with myself heheheheheheh
+- 📫 I'm looking for a job on tech area 
 
 <!---
 aereis75/aereis75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
